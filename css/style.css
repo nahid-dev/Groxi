@@ -1,0 +1,7 @@
+@import "font.css";
+
+p{
+    font-size: 40px;
+    font-family: 'Barlow';
+    font-weight: 600;
+}
